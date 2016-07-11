@@ -1,2 +1,2 @@
 # GD-verse
-Utilities and such
+Utilities and such, written for various projects.
